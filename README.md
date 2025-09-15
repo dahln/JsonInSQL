@@ -40,7 +40,6 @@ This allows you to store and retrieve rich, nested data structures in a single c
 
 ## Next Steps
 
-- Research advanced querying and indexing options for JSON columns
+- Research advanced querying and indexing options for JSON columns (e.g. queries that are not bound to a structured object)
 - Explore support for other databases (e.g., SQL Server)
 - Add more complex search scenarios
-- Research Indexing options and limitations
